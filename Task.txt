@@ -1,0 +1,42 @@
+New file k 3 cols rakhe hai
+Price Comparison Task
+
+Plow, index and high
+Index ka % change nikalenge hum
+
+Setting Threshold- Dates below 2020 uspe kum threshold rkhenge
+       Dates 2020 & above pe jyada threshold rkhenge 
+
+Code should tell ki kaunse Index category pe subcategory pe Region mai kitna price change hai
+wherever significal change, we should get the  
+
+
+Before year 2020 %
+let the user give me an option to check last 6 months last 13 months in the macro to give me  
+
+anything before last 6 months like agar delat change > 10% than 
+
+1st input months if price change > 10% than 
+2nd input threshold
+
+2018, 2019
+2020 ka pehle ka threshold of %change ka  
+
+month wala variable dalo
+it will go back to 2020 and will check agar kisi bhi month mai 10 15% changes ata hai
+
+
+*last 12 months mai % >20% should flag me 
+*last 6 months mai % 
+
+
+3 inputs
+1st input- 
+
+
+     
+
+
+
+       
+
