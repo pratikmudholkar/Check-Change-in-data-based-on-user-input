@@ -1,0 +1,2 @@
+# Check-Change-in-data-based-on-user-input
+Input1 - Number of months; Input2 - %value (less than Input3);  Input3 - %value (more than Input2).  Whatever the Input1 is I run ' if loop ' Inside 'If loop'  We shall do few calculations to filter out entire columns data according to column having 'Dates' based on Input1. Inside it again I am using  Greater than>  Less than conditions&lt; to check Input2 and Input3 for a column '%change' in our data.  If our data column '%Change'   Exceeds or precedes Input2 or Input3  We write an excel/csv file for that particular rows of data
